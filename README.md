@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @akselsgraveris
+- 👀 I’m interested in Front-end development
+- 🌱 I’m currently learning JS library React
+- 📫 You can reach me : /in/aksels-graveris
